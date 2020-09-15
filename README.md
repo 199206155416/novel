@@ -1,4 +1,3 @@
-[![index](https://gitee.com/xiongxyang/fiction_house/raw/7c3fb654bbf4e8d295a17de39c2126df6afd43f2/assets/%E7%83%AD%E9%97%A8%E4%BA%91%E4%BA%A7%E5%93%811040.100.jpg)](https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console)
 # novel-cloud
 
 #### 背景
